@@ -8,13 +8,18 @@ You'll want to get a flash drive thats at least 8gb then:
 
 If using the media creation tool, continue the guide here: https://www.youtube.com/watch?v=R7VLs8FwD2M
 
-Otherwise, if you don't want to use the creation tool: continue here:
+Otherwise, if you don't want to use the creation tool, continue here:
+
 Use something like:
 Rufus: https://rufus.ie/en/
+
 Rufus bootable flash drive guide:
 https://softwarekeep.com/help-center/how-to-create-a-bootable-usb-using-rufus
+
 or
+
 balenaEtcher: https://www.balena.io/etcher/
+
 balenaEtcher bootable flash drive guide:
 https://www.how2shout.com/how-to/balenaetcher-how-to-create-a-bootable-usb-flash-drive-using-etcher.html
 to format the flash drive to FAT32 and make a bootable drive.
