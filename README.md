@@ -21,6 +21,7 @@ or
 balenaEtcher: https://www.balena.io/etcher/
 
 balenaEtcher bootable flash drive guide:
+
 https://www.how2shout.com/how-to/balenaetcher-how-to-create-a-bootable-usb-flash-drive-using-etcher.html
 to format the flash drive to FAT32 and make a bootable drive.
 
